@@ -17,7 +17,7 @@ const page = () => {
       >
         <div className="">
           <Navbar />
-          <main className="grid grid-cols-1 md:grid-cols-7 w-full">
+          <main className="grid grid-cols-1 md:grid-cols-6 lg:grid-cols-7 w-full">
             <div className="md:flex hidden flex-col justify-center gap-20 h-[80vh] ">
               <div className="flex justify-center items-center ">
                 <div className="bg-white w-1 h-44"></div>
@@ -28,7 +28,7 @@ const page = () => {
                 <FaInstagram />
               </div>
             </div>
-            <div className="flex flex-col justify-center col-span-3 px-10 pt-10 md:pt-0">
+            <div className="flex flex-col justify-center md:pl-20 lg:col-span-3 md:col-span-5 px-10 pt-10 md:pt-0">
               <h1 className="md:text-7xl text-5xl max-w-[500px] text-white font-semibold">
                Contact
               </h1>
@@ -38,9 +38,18 @@ const page = () => {
                 Moreover, it is important to travel to humans. Some travel to
                 learn more while some travel to take a break from their life.
               </h5> */}
-            </div>
-            <div className="flex items-center">
+              <div className="lg:hidden flex items-center justify-center pt-10 md:pt-0">
                 <form action="" className="grid gap-5 bg-black/50 rounded-xl p-5 min-w-[300px] md:min-w-[500px]">
+                    <input type="text" name="" id="" placeholder="Name" className="py-2 px-5 w-full focus:outline-none rounded-xl" />
+                    <input type="text" name="" id="" placeholder="Email" className="py-2 px-5 w-full focus:outline-none rounded-xl" />
+                    <textarea name="" id="" placeholder="Tell me Something" className="py-2 px-5 w-full focus:outline-none rounded-xl" ></textarea>
+                    <input type="submit" value={"Send"} className="text-white font-semibold bg-black py-2 px-5 w-full focus:outline-none rounded-xl" />
+
+                </form>
+            </div>
+            </div>
+            <div className="lg:flex hidden items-center  pt-10 lg:pt-0">
+                <form action="" className="grid gap-5 bg-black/50 rounded-xl p-5 min-w-[300px] lg:min-w-[500px]">
                     <input type="text" name="" id="" placeholder="Name" className="py-2 px-5 w-full focus:outline-none rounded-xl" />
                     <input type="text" name="" id="" placeholder="Email" className="py-2 px-5 w-full focus:outline-none rounded-xl" />
                     <textarea name="" id="" placeholder="Tell me Something" className="py-2 px-5 w-full focus:outline-none rounded-xl" ></textarea>
