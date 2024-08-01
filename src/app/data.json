@@ -1,0 +1,200 @@
+{
+    "countries": [
+      {
+        "name": "France",
+        "description": "France, in Western Europe, encompasses medieval cities, alpine villages, and Mediterranean beaches. Its capital, Paris, is famed for its fashion houses, classical art museums including the Louvre, and monuments like the Eiffel Tower.",
+        "image": "https://example.com/images/france.jpg"
+      },
+      {
+        "name": "Japan",
+        "description": "Japan is an island nation in East Asia. Known for its unique blend of traditional and modern culture, Japan features historical temples and shrines, beautiful landscapes, and advanced technology.",
+        "image": "https://example.com/images/japan.jpg"
+      },
+      {
+        "name": "Italy",
+        "description": "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins.",
+        "image": "https://example.com/images/italy.jpg"
+      },
+      {
+        "name": "Australia",
+        "description": "Australia is a country and continent surrounded by the Indian and Pacific oceans. Known for its Sydney Opera House, Great Barrier Reef, and unique wildlife, Australia is a top travel destination.",
+        "image": "https://example.com/images/australia.jpg"
+      },
+      {
+        "name": "Brazil",
+        "description": "Brazil, the largest country in South America, is famous for its vibrant culture, beautiful beaches, and the Amazon Rainforest. Its carnival festival is considered the biggest in the world.",
+        "image": "https://example.com/images/brazil.jpg"
+      },
+      {
+        "name": "Canada",
+        "description": "Canada, stretching from the U.S. in the south to the Arctic Circle in the north, is filled with vast, untouched landscapes. The country is known for its natural beauty, from the Rocky Mountains to the stunning Niagara Falls.",
+        "image": "https://example.com/images/canada.jpg"
+      },
+      {
+        "name": "China",
+        "description": "China, a populous nation in East Asia, has a vast landscape that encompasses grassland, desert, mountains, lakes, rivers, and more than 14,000km of coastline. Beijing, the capital, mixes modern architecture with historic sites such as the Forbidden City palace complex and Tiananmen Square.",
+        "image": "https://example.com/images/china.jpg"
+      },
+      {
+        "name": "Germany",
+        "description": "Germany is a Western European country with a landscape of forests, rivers, mountain ranges, and North Sea beaches. It has over two millennia of history. Berlin, its capital, is home to art and nightlife scenes, the Brandenburg Gate, and many sites relating to WWII.",
+        "image": "https://example.com/images/germany.jpg"
+      },
+      {
+        "name": "India",
+        "description": "India, a South Asian country, is known for its diverse culture, rich history, and natural beauty. Landmarks include the iconic Taj Mahal, the holy city of Varanasi, and the beaches of Goa.",
+        "image": "https://example.com/images/india.jpg"
+      },
+      {
+        "name": "Mexico",
+        "description": "Mexico is a country between the U.S. and Central America known for its Pacific and Gulf of Mexico beaches and its diverse landscape of mountains, deserts, and jungles. Ancient ruins such as Teotihuacan and the Mayan city of Chichen Itza are scattered throughout the country.",
+        "image": "https://example.com/images/mexico.jpg"
+      },
+      {
+        "name": "South Africa",
+        "description": "South Africa is a country on the southernmost tip of the African continent, marked by several distinct ecosystems. Inland safari destination Kruger National Park is populated by big game. The Western Cape offers beaches, lush winelands, and the city of Cape Town.",
+        "image": "https://example.com/images/southafrica.jpg"
+      },
+      {
+        "name": "United Kingdom",
+        "description": "The United Kingdom, made up of England, Scotland, Wales, and Northern Ireland, is an island nation in northwestern Europe. England is home to the capital, London, a globally influential center of finance and culture.",
+        "image": "https://example.com/images/uk.jpg"
+      },
+      {
+        "name": "Russia",
+        "description": "Russia, the world's largest nation, borders European and Asian countries as well as the Pacific and Arctic oceans. Its landscape ranges from tundra and forests to subtropical beaches. Major cities include Moscow, the capital, and St. Petersburg.",
+        "image": "https://example.com/images/russia.jpg"
+      },
+      {
+        "name": "Spain",
+        "description": "Spain, a country on Europe’s Iberian Peninsula, includes 17 autonomous regions with diverse geography and cultures. The capital city, Madrid, is home to the Royal Palace and Prado museum, housing works by European masters.",
+        "image": "https://example.com/images/spain.jpg"
+      },
+      {
+        "name": "Thailand",
+        "description": "Thailand is a Southeast Asian country. It’s known for tropical beaches, opulent royal palaces, ancient ruins, and ornate temples displaying figures of Buddha. In Bangkok, the capital, an ultramodern cityscape rises next to quiet canalside communities and the iconic temples of Wat Arun, Wat Pho, and the Emerald Buddha Temple (Wat Phra Kaew).",
+        "image": "https://example.com/images/thailand.jpg"
+      },
+      {
+        "name": "Egypt",
+        "description": "Egypt, a country linking northeast Africa with the Middle East, dates to the time of the pharaohs. Millennia-old monuments sit along the fertile Nile River Valley, including Giza’s colossal Pyramids and Great Sphinx as well as Luxor’s hieroglyph-lined Karnak Temple and Valley of the Kings tombs.",
+        "image": "https://example.com/images/egypt.jpg"
+      },
+      {
+        "name": "New Zealand",
+        "description": "New Zealand is an island country in the southwestern Pacific Ocean. It consists of 2 main landmasses, the North Island and the South Island, and over 700 smaller islands. New Zealand is known for its stunning natural landscapes, from sandy beaches and lush forests to mountains and glaciers.",
+        "image": "https://example.com/images/newzealand.jpg"
+      },
+      {
+        "name": "Argentina",
+        "description": "Argentina is a massive South American nation with terrain encompassing Andes mountains, glacial lakes, and Pampas grassland, the traditional grazing ground of its famed beef cattle. The country is famous for tango dance and music.",
+        "image": "https://example.com/images/argentina.jpg"
+      },
+      {
+        "name": "Greece",
+        "description": "Greece is a country in southeastern Europe with thousands of islands throughout the Aegean and Ionian seas. Influential in ancient times, it's known for its beaches, from the black sands of Santorini to the party resorts of Mykonos.",
+        "image": "https://example.com/images/greece.jpg"
+      },
+      {
+        "name": "Turkey",
+        "description": "Turkey is a nation straddling eastern Europe and western Asia with cultural connections to ancient Greek, Persian, Roman, Byzantine, and Ottoman empires. Cosmopolitan Istanbul, on the Bosphorus Strait, is home to the iconic Hagia Sophia, with its soaring dome and Christian mosaics, the massive 17th-century Blue Mosque, and the circa-1460 Topkapi Palace.",
+        "image": "https://example.com/images/turkey.jpg"
+      },
+      {
+        "name": "South Korea",
+        "description": "South Korea, an East Asian nation on the southern half of the Korean Peninsula, shares one of the world’s most heavily militarized borders with North Korea. It’s equally known for its green, hilly countryside dotted with cherry trees and centuries-old Buddhist temples, plus its coastal fishing villages, sub-tropical islands, and high-tech cities such as Seoul, the capital.",
+        "image": "https://example.com/images/southkorea.jpg"
+      },
+      {
+        "name": "Indonesia",
+        "description": "Indonesia, a Southeast Asian country made up of thousands of volcanic islands, is home to hundreds of ethnic groups speaking many different languages. It’s known for its beaches, volcanoes, Komodo dragons, and jungles sheltering elephants, orangutans, and tigers.",
+        "image": "https://example.com/images/indonesia.jpg"
+      },
+      {
+        "name": "Netherlands",
+        "description": "The Netherlands, a country in Northwestern Europe, is known for its flat landscape of canals, tulip fields, windmills, and cycling routes. Amsterdam, the capital, is home to the Rijksmuseum, Van Gogh Museum, and the house where Jewish diarist Anne Frank hid during WWII.",
+        "image": "https://example.com/images/netherlands.jpg"
+      },
+      {
+        "name": "Switzerland",
+        "description": "Switzerland is a mountainous Central European country, home to numerous lakes, villages, and the high peaks of the Alps. Its cities contain medieval quarters, with landmarks like the Zytglogge clock tower in Bern and the wooden chapel bridge in Lucerne.",
+        "image": "https://example.com/images/switzerland.jpg"
+      },
+      {
+        "name": "Portugal",
+        "description": "Portugal is a southern European country on the Iberian Peninsula, bordering Spain. Its location on the Atlantic Ocean has influenced many aspects of its culture: salt cod and grilled sardines are national dishes, the Algarve's beaches are a major destination, and much of the nation's architecture dates to the 1500s–1800s, when Portugal had a powerful maritime empire.",
+        "image": "https://example.com/images/portugal.jpg"
+      },
+      {
+        "name": "Morocco",
+        "description": "Morocco, a North African country bordering the Atlantic Ocean and Mediterranean Sea, is distinguished by its Berber, Arabian, and European cultural influences. Marrakesh's medina, a mazelike medieval quarter, offers entertainment in its Djemaa el-Fna square and souks (marketplaces) selling ceramics, jewelry, and spices.",
+        "image": "https://example.com/images/morocco.jpg"
+      },
+      {
+        "name": "Vietnam",
+        "description": "Vietnam is a Southeast Asian country known for its beaches, rivers, Buddhist pagodas, and bustling cities. Hanoi, the capital, pays homage to the nation's iconic Communist-era leader, Ho Chi Minh, via a huge marble mausoleum. Ho Chi Minh City (formerly Saigon) has French colonial landmarks, plus Vietnamese War history museums and the Củ Chi tunnels, used by Viet Cong soldiers.",
+        "image": "https://example.com/images/vietnam.jpg"
+      },
+      {
+        "name": "Peru",
+        "description": "Peru is a country in South America that's home to a section of the Amazon rainforest and Machu Picchu, an ancient Incan city high in the Andes mountains. The region around Machu Picchu, including the Sacred Valley, Inca Trail, and colonial city of Cusco, is rich in archaeological sites.",
+        "image": "https://example.com/images/peru.jpg"
+      },
+      {
+        "name": "Malaysia",
+        "description": "Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo. It's known for its beaches, rainforests, and mix of Malay, Chinese, Indian, and European cultural influences. The capital, Kuala Lumpur, is home to colonial buildings, busy shopping districts such as Bukit Bintang, and skyscrapers including the iconic, 451m-tall Petronas Twin Towers.",
+        "image": "https://example.com/images/malaysia.jpg"
+      },
+      {
+        "name": "Norway",
+        "description": "Norway is a Scandinavian country encompassing mountains, glaciers, and deep coastal fjords. Oslo, the capital, is a city of green spaces and museums. Preserved 9th-century Viking ships are displayed at Oslo’s Viking Ship Museum. Bergen, with colorful wooden houses, is the starting point for cruises to the dramatic Sognefjord. Norway is also known for fishing, hiking, and skiing.",
+        "image": "https://example.com/images/norway.jpg"
+      },
+      {
+        "name": "Kenya",
+        "description": "Kenya is a country in East Africa with coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley, and mountain highlands. It’s also home to wildlife like lions, elephants, and rhinos. From Nairobi, the capital, safaris visit the Maasai Mara Reserve, known for its annual wildebeest migrations, and Amboseli National Park, offering views of Tanzania’s 5,895m Mt. Kilimanjaro.",
+        "image": "https://example.com/images/kenya.jpg"
+      },
+      {
+        "name": "Saudi Arabia",
+        "description": "Saudi Arabia is a desert country encompassing most of the Arabian Peninsula, with Red Sea and Persian (Arabian) Gulf coastlines. Known as the birthplace of Islam, it’s home to the religion’s 2 most sacred mosques: Masjid al-Haram in Mecca, destination of the annual Hajj pilgrimage, and Medina’s Masjid an-Nabawi, burial site of the prophet Muhammad.",
+        "image": "https://example.com/images/saudiarabia.jpg"
+      },
+      {
+        "name": "Sweden",
+        "description": "Sweden is a Scandinavian nation with thousands of coastal islands and inland lakes, along with vast boreal forests and glaciated mountains. Its principal cities, eastern capital Stockholm and southwestern Gothenburg and Malmö, are all coastal. Stockholm is built on 14 islands. It has more than 50 bridges, as well as the medieval old town, Gamla Stan, royal palaces, and museums such as open-air Skansen.",
+        "image": "https://example.com/images/sweden.jpg"
+      },
+      {
+        "name": "UAE",
+        "description": "The United Arab Emirates is an Arabian Peninsula nation settled mainly along the Persian (Arabian) Gulf. The country is a federation of 7 emirates. Dubai, the most populous city, is known for its modern architecture, shopping, and lively nightlife. Abu Dhabi, the island capital, features the impressive Sheikh Zayed Grand Mosque.",
+        "image": "https://example.com/images/uae.jpg"
+      },
+      {
+        "name": "Austria",
+        "description": "Austria is a German-speaking country in Central Europe, characterized by mountain villages, baroque architecture, Imperial history, and rugged Alpine terrain. Vienna, its Danube River capital, is home to the Schönbrunn and Hofburg palaces. It has counted Mozart, Strauss, and Freud among its residents.",
+        "image": "https://example.com/images/austria.jpg"
+      },
+      {
+        "name": "Belgium",
+        "description": "Belgium, a country in Western Europe, is known for medieval towns, Renaissance architecture, and as headquarters of the European Union and NATO. The country has distinctive regions including Dutch-speaking Flanders to the north, French-speaking Wallonia to the south, and a German-speaking community to the east. The bilingual capital, Brussels, has ornate guildhalls at Grand-Place and elegant art-nouveau buildings.",
+        "image": "https://example.com/images/belgium.jpg"
+      },
+      {
+        "name": "Czech Republic",
+        "description": "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. It's known for its ornate castles, native beers, and long history. Prague, the capital, is home to a 9th-century castle, a preserved medieval old town, and a statue-lined Charles Bridge.",
+        "image": "https://example.com/images/czechrepublic.jpg"
+      },
+      {
+        "name": "Denmark",
+        "description": "Denmark is a Scandinavian country comprising the Jutland Peninsula and numerous islands. It's linked to nearby Sweden via the Öresund bridge. Copenhagen, its capital, is home to royal palaces and colorful Nyhavn harbor, plus the Tivoli amusement park and the iconic “Little Mermaid” statue.",
+        "image": "https://example.com/images/denmark.jpg"
+      },
+      {
+        "name": "Ireland",
+        "description": "Ireland is an island in the North Atlantic. It's known for its lush landscape of rolling plains and rugged coastline. Dublin, the capital, is home to the Guinness Storehouse and the Book of Kells at Trinity College Dublin.",
+        "image": "https://example.com/images/ireland.jpg"
+      }
+    ]
+  }
+  
