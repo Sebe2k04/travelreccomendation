@@ -27,7 +27,7 @@ export default function Home() {
   const handleClear = () => {
     setSearchTerm("");
     setFilteredData([]);
-  }
+  };
   return (
     <div className="bg-no-repeat">
       <div
@@ -80,35 +80,81 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="flex justify-center pt-10">
-                <div className="">
-                {filteredData.length > 0 ? (
-                  <div className=" w-[300px] bg-white p-5 flex flex-col gap-2 divide-y-2 overflow-y-scroll max-h-[70vh]">
-                    {filteredData.map((country, index) => (
-                      <div key={index}>
-                        <Image
-                          src="/c.jpg"
-                          width={300}
-                          height={300}
-                          alt=""
-                          className="h-[120px] w-full object-cover rounded-xl mb-5"
-                        />
+                  <div className="">
+                    {filteredData.length > 0 ? (
+                      <div className=" w-[300px] bg-white p-5 flex flex-col gap-2 divide-y-2 overflow-y-scroll max-h-[70vh]">
+                        {filteredData.map((country, index) => (
+                          <div key={index}>
+                            <Image
+                              src="/c.jpg"
+                              width={300}
+                              height={300}
+                              alt=""
+                              className="h-[120px] w-full object-cover rounded-xl mb-5"
+                            />
 
-                        <h2 className="text-2xl font-semibold">
-                          {country.name}
-                        </h2>
-                        <p>{country.description}</p>
-                        {/* <img src={country.image} alt={country.name} width="100" /> */}
+                            <h2 className="text-2xl font-semibold">
+                              {country.name}
+                            </h2>
+                            <p>{country.description}</p>
+                            {/* <img src={country.image} alt={country.name} width="100" /> */}
+                          </div>
+                        ))}
                       </div>
-                    ))}
+                    ) : (
+                      ""
+                    )}
                   </div>
-                ) : (
-                  ""
-                )}
-                </div>
                 </div>
               </div>
             </div>
-            <div className=""></div>
+            <div className="lg:col-span-2 p-5 md:col-span-4 pt-10 md:pl-[100px]">
+              <h1 className="text-white text-3xl font-semibold">
+                Recommendations
+              </h1>
+              <div className=" pt-5">
+                <h1 className="text-white text-2xl font-semibold">
+                  Beach
+                </h1>
+                <div className="md:flex gap-2 w-full">
+                  <Image
+                    src="/b1.jpg"
+                    width={300}
+                    height={300}
+                    alt=""
+                    className="h-[120px] w-full object-cover rounded-xl mb-5"
+                  />
+                  <Image
+                    src="/b2.jpg"
+                    width={300}
+                    height={300}
+                    alt=""
+                    className="h-[120px] w-full object-cover rounded-xl mb-5"
+                  />
+                </div>
+              </div>
+              <div className="pt-5">
+                <h1 className="text-white text-2xl font-semibold">
+                  Temple
+                </h1>
+                <div className="md:flex gap-2 w-full">
+                  <Image
+                    src="/t1.jpeg"
+                    width={300}
+                    height={300}
+                    alt=""
+                    className="h-[120px] w-full object-cover rounded-xl mb-5"
+                  />
+                  <Image
+                    src="/t2.jpg"
+                    width={300}
+                    height={300}
+                    alt=""
+                    className="h-[120px] w-full object-cover rounded-xl mb-5"
+                  />
+                </div>
+              </div>
+            </div>
           </main>
         </div>
       </div>
